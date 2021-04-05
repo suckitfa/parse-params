@@ -1,0 +1,14 @@
+{
+    "name": "parse-params",
+    "version": "1.0.0",
+    "description": "ls",
+    "main": "index.js",
+    "scripts": {
+        "test": "node test.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "qs": "^6.10.1"
+    }
+}
